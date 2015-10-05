@@ -42,7 +42,7 @@ I'm not native English speaker. So please correct my English in
 
 ### More tests
 
-Please add more tests for begginer to avoid issues or give tips.
+Please add more tests for beginner to avoid issues or give tips.
 
 ### Cool design
 
