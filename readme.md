@@ -46,7 +46,7 @@ Please add more tests for begginer to avoid issues or give tips.
 
 ### Cool design
 
-I'm not web designer. I used css in checker.php came from kohana's checker. So please make more 'Laravel-like' design. ( But please don't add any files. Just keep it in checker.php. Because I don't touch .htacess file to check ModRewrite is active. And right now just check on apache style URI rewrite. Maybe someone add code to check for other Web server. If just all put into one file, rewrite check will be simple. Simple means easy to make. It is important. And one more. Please don't smaller fonts. Asisan charactors are more complicated than European. So by smaller fonts, we feel hard to read. I don't want put font size changer for just checker. )
+I'm not web designer. I used css in checker.php came from kohana's checker. So please make more 'Laravel-like' design. ( But please don't add any files. Just keep it in checker.php. Because I don't touch .htacess file to check ModRewrite is active. And right now just check on apache style URI rewrite. Maybe someone add code to check for other Web server. If just all put into one file, rewrite check will be simple. Simple means easy to make. It is important. And one more. Please don't smaller fonts. Asisan characters are more complicated than European. So by smaller fonts, we feel hard to read. I don't want put font size changer for just checker. )
 
 ### More language files
 
